@@ -11,7 +11,7 @@
         <activity
             android:screenOrientation="portrait"
             android:configChanges="orientation|screenSize|keyboardHidden"
-            android:theme="@style/AppTheme"
+            android:theme="@style/Theme.AppCompat"
             android:name=".MediaChoseActivity"
             android:label="@string/title_activity_media_chose" >
         </activity>
